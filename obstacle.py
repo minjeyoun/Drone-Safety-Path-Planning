@@ -4,13 +4,13 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # 격자의 크기 설정
-n = 101  # 0부터 100까지
+n = 21  # 0부터 20까지
 
 # 격자 초기화, 0은 이동 가능한 칸을 의미
 grid = [[0 for _ in range(n)] for _ in range(n)]
 
 # 장애물(1)을 랜덤하게 배치, 시작점(0,0)과 끝점(100,100)은 제외
-obstacles = 2000
+obstacles = 140
 while obstacles:
     x, y = random.randint(0, n - 1), random.randint(0, n - 1)
     if (x, y) != (0, 0) and (x, y) != (n - 1, n - 1) and grid[x][y] == 0:
