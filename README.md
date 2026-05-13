@@ -57,6 +57,9 @@ shortest-path2.py
 
 <img width="262" height="157" alt="image" src="https://github.com/user-attachments/assets/e1ff48e8-12ba-436b-9932-2c4148a7bfd0" />
 
+첫번째 코드를 만든 이후에 도로에서 사고가 발생하여 사용할 수 없게 된다면
+
+실시간 정보를 반영한 최단경로를 구해야 한다고 생각했습니다.
 
 
 obstacle.py
