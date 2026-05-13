@@ -26,6 +26,12 @@ shortest-path2.py
 obstacle.py
 <img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/a8e76e46-9dcb-4ab5-a5be-8c6f02f63718" />
 
+코드를 실행하면 사진과 같은 결과가 나옵니다.
+격자의 크기, 랜덤 장애물의 개수를 수정하면 그에 따라 변화합니다.
+
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/199da761-b1b1-4a04-8a4b-7a56381cc0c7" />
+
+이 사진은 격자의 크기: 50, 랜덤 장애물의 개수: 640 의 결과물입니다.
 
 🚀 Key Features
 Data Quality Management: 드론 운항 데이터의 정확도와 정밀도를 높이는 데이터 정제 기법
