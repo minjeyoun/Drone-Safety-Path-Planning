@@ -53,6 +53,10 @@ shortest-path2.py
 
 <img width="959" height="504" alt="image" src="https://github.com/user-attachments/assets/ac81669d-64cd-486c-99ab-5622b2bbe0fc" />
 
+<img width="959" height="502" alt="image" src="https://github.com/user-attachments/assets/b6b5a692-a3c2-4df1-a682-1055afaad29b" />
+
+<img width="262" height="157" alt="image" src="https://github.com/user-attachments/assets/e1ff48e8-12ba-436b-9932-2c4148a7bfd0" />
+
 
 
 obstacle.py
