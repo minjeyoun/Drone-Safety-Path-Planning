@@ -23,7 +23,7 @@ shortest-path1.py
 
 <img width="230" height="154" alt="image" src="https://github.com/user-attachments/assets/2183d283-3a40-4e3f-be77-40184ccce680" />
 
-<img width="267" height="179" alt="image" src="https://github.com/user-attachments/assets/f66dee33-0d5d-4a18-882f-24f889adc4d5" />
+<img width="262" height="155" alt="image" src="https://github.com/user-attachments/assets/dc324310-a5bb-49e3-9356-255a72f25666" />
 
 <img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/afadbd2f-747a-49c3-b8eb-fba340c2d28b" />
 
